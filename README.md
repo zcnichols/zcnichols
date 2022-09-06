@@ -1,7 +1,7 @@
 ### Data Analyst learning something new everyday! 
 
 
-Here are some ideas to get you started:
+Here are some data points:
 
 - 🔭 I’m currently working on Python Bootcamp.
 - 🌱 I’m currently learning Javascript 5.
