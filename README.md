@@ -1,6 +1,6 @@
 ### Data Analyst learning something new everyday! 
 
-
+I'm proficient in MySQL, Tableau, R, and Excel.
 Here are some data points:
 
 - 🔭 I’m currently working on Python Bootcamp.
