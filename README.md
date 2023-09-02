@@ -1,6 +1,6 @@
 ### Data Analyst learning something new everyday! 
 
-I'm proficient in MySQL, Tableau, R, and Excel.
+I'm proficient in Power BI, Power Automate, PostgreSQL, Excel, Tableau, and R.
 
 Here are some data points about me:
 
